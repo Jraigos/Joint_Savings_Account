@@ -4,6 +4,8 @@ This is an smart contract application that allows to emulate the features, proce
 For demonstration purposes and to automate the creation of joint savings accounts, it has been created a Solidity smart contract that accepts two user addresses. These addresses are able to control a joint savings account. The smart contract uses ether management functions to implement a financial institution’s requirements for providing the features of these accounts. These features consists of the ability to deposit and withdraw funds from the account.
 <br>
 
+![Compilation(Execution_Results/compilation.png)
+<br>
 
 ![Deployed Contract](deployed_contract.png)
 <br>
