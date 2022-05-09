@@ -71,14 +71,14 @@ In the next steps, there is a graphical description of the process:
 </br>
 </br>
 
-5. The second deposit of 10 ether in wei is completed. The total balance is 11 ETH.
+5. The second deposit of 10 ether in wei is completed. The total balance of the contract is 11 ETH.
 </br>
 
 ![Second deposit](Execution_Results/deposit_2.png)
 </br>
 </br>
 
-6. The third deposit of 5 ETH is completed. The total balance is 16 ETH.
+6. The third deposit of 5 ETH is completed. The total balance of the contract is 16 ETH.
 </br>
 
 ![Third deposit](Execution_Results/deposit_3.png)
@@ -86,14 +86,14 @@ In the next steps, there is a graphical description of the process:
 </br>
 
 
-7. There is a withdraw of 5 ETH from the joint savings account to account One. The total balance is 11 ETH.
+7. There is a withdraw of 5 ETH from the joint savings account to account One. The total balance of the contract is 11 ETH.
 </br>
 
 ![First withdraw](Execution_Results/withdraw_1.png)
 </br>
 </br>
 
-8. There is a withdraw of 10 ETH from the joint savings account to account Two. The total balance is 1 ETH.
+8. There is a withdraw of 10 ETH from the joint savings account to account Two. The total balance of the contract is 1 ETH.
 </br>
 
 ![Second withdraw](Execution_Results/withdraw_2.png)
